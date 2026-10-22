@@ -1,366 +1,448 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="Azteca Internacional" group-title="Favoritos Plus",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-name="Imagen TV" group-title="Favoritos Plus",Imagen TV
-https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-#EXTINF:-1 tvg-name="ADN Noticias" group-title="Favoritos Plus",ADN Noticias
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-name="Tele 10 Nayarit" group-title="Favoritos Plus",Tele 10 Nayarit
-https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-#EXTINF:-1 tvg-name="Mexico Travel TV" group-title="Favoritos Plus",Mexico Travel TV
-https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
-#EXTINF:-1 tvg-name="Estrella TV" group-title="Favoritos Plus",Estrella TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-name="Telemundo Romance" group-title="Favoritos Plus",Telemundo Romance
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-name="Azteca Deportes Network (Tubi)" group-title="Favoritos Plus",Azteca Deportes Network (Tubi)
-https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
-#EXTINF:-1 tvg-name="Popcorn Central" group-title="Favoritos Plus",Popcorn Central
-https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1 tvg-name="Quiero TV Jalisco" group-title="Favoritos Plus",Quiero TV Jalisco
-https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 #EXTINF:-1 tvg-name="8NTV" group-title="Favoritos Plus",8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",A&E Latinoamérica
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 tvg-name="ADN Noticias" group-title="Favoritos Plus",ADN Noticias
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-name="Alcance TV" group-title="Favoritos Plus",Alcance TV
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Latinoamérica — opción A 1080p" group-title="Favoritos Plus",AMC Latinoamérica — opción A 1080p
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",AMX Noticias (México)
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Animal Planet Latinoamérica
+http://190.128.214.97:64333/play/a01n/index.m3u8
 #EXTINF:-1 tvg-name="Antena TV" group-title="Favoritos Plus",Antena TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 tvg-name="AXN Latin America Andes (1080p)" group-title="Favoritos Plus",AXN Latin America Andes (1080p)
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-name="AXN Latinoamérica" group-title="Favoritos Plus",AXN Latinoamérica
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="AXN Latinoamérica - opción FHD A" group-title="Favoritos Plus",AXN Latinoamérica - opción FHD A
+http://15.204.246.24:8080/AXNHD/index.m3u8
+#EXTINF:-1 tvg-name="AXN Latinoamérica - opción FHD B" group-title="Favoritos Plus",AXN Latinoamérica - opción FHD B
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-name="Az Cinema - alternativa nueva" group-title="Favoritos Plus",Az Cinema - alternativa nueva
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
+#EXTINF:-1 tvg-name="Az Corazón" group-title="Favoritos Plus",Az Corazón
+http://200.115.120.1:8000/play/ca020/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Azteca 7 - alternativa 1
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-name="Azteca Deportes Network (Tubi)" group-title="Favoritos Plus",Azteca Deportes Network (Tubi)
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-name="Azteca Internacional" group-title="Favoritos Plus",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-name="B15 Fresnillo" group-title="Favoritos Plus",B15 Fresnillo
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 5 TV Cozumel" group-title="Favoritos Plus",Canal 5 TV Cozumel
-https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Bandamax
+https://streaming.onnethn.com/Bandamax/index.m3u8
+#EXTINF:-1 tvg-name="Bandamax — FHD 1080p" group-title="Favoritos Plus",Bandamax — FHD 1080p
+http://181.78.106.127:5000/play/ca064/index.m3u8
 #EXTINF:-1 tvg-name="Canal 10 Chiapas" group-title="Favoritos Plus",Canal 10 Chiapas
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 10 Durango" group-title="Favoritos Plus",Canal 10 Durango
-https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:-1 tvg-name="Lobo TV" group-title="Favoritos Plus",Lobo TV
-https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 tvg-name="Mexiquense TV" group-title="Favoritos Plus",Mexiquense TV
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-name="Notigram TV" group-title="Favoritos Plus",Notigram TV
-https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-#EXTINF:-1 tvg-name="Nueve TV San Luis Potosí" group-title="Favoritos Plus",Nueve TV San Luis Potosí
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1 tvg-name="Presumiendo México" group-title="Favoritos Plus",Presumiendo México
-https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 26" group-title="Favoritos Plus",Canal 26
 https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8
-#EXTINF:-1 tvg-name="UAA TV" group-title="Favoritos Plus",UAA TV
-https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
-#EXTINF:-1 tvg-name="El Chavo TV" group-title="Favoritos Plus",El Chavo TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-name="Telemax Sonora" group-title="Favoritos Plus",Telemax Sonora
-https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 44 Ciudad Juárez" group-title="Favoritos Plus",Canal 44 Ciudad Juárez
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
-#EXTINF:-1 tvg-name="Jalisco TV" group-title="Favoritos Plus",Jalisco TV
-https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1 tvg-name="TV Cuatro 4.1 - Guanajuato" group-title="Favoritos Plus",TV Cuatro 4.1 - Guanajuato
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 tvg-name="RTQ Querétaro" group-title="Favoritos Plus",RTQ Querétaro
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 #EXTINF:-1 tvg-name="Canal 33 Tijuana" group-title="Favoritos Plus",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 44 Chihuahua" group-title="Favoritos Plus",Canal 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 tvg-name="TRC Televisión" group-title="Favoritos Plus",TRC Televisión
-https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
-#EXTINF:-1 tvg-name="TVP Culiacán" group-title="Favoritos Plus",TVP Culiacán
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVP Mazatlán" group-title="Favoritos Plus",TVP Mazatlán
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Mar Puerto Vallarta" group-title="Favoritos Plus",TV Mar Puerto Vallarta
-https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 tvg-name="SICOM Televisión 26.1 - Puebla" group-title="Favoritos Plus",SICOM Televisión 26.1 - Puebla
-https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal Catorce (México)" group-title="Favoritos Plus",Canal Catorce (México)
-https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-name="13 Humor (Chile)" group-title="Favoritos Plus",13 Humor (Chile)
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-name="13 Teleseries (Chile)" group-title="Favoritos Plus",13 Teleseries (Chile)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-name="13 Festival (Chile)" group-title="Favoritos Plus",13 Festival (Chile)
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-name="13C Cultura (Chile)" group-title="Favoritos Plus",13C Cultura (Chile)
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-name="Telemundo Puerto Rico WKAQ" group-title="Favoritos Plus",Telemundo Puerto Rico WKAQ
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
-#EXTINF:-1 tvg-name="Senal Colombia" group-title="Favoritos Plus",Senal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="RCN Novelas (Colombia)" group-title="Favoritos Plus",RCN Novelas (Colombia)
-https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Xtrema Cine Clasico (Argentina)" group-title="Favoritos Plus",Xtrema Cine Clasico (Argentina)
-https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 44 Ciudad Juárez" group-title="Favoritos Plus",Canal 44 Ciudad Juárez
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 México — opción D" group-title="Favoritos Plus",Canal 5 México — opción D
 http://45.189.151.7:8000/play/a05s
 #EXTINF:-1 tvg-name="Canal 5 México — opción E" group-title="Favoritos Plus",Canal 5 México — opción E
 http://132.255.210.69:8000/play/a06e
-#EXTINF:-1 tvg-name="Las Estrellas México — opción B" group-title="Favoritos Plus",Las Estrellas México — opción B
-http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-#EXTINF:-1 tvg-name="Las Estrellas México — opción C" group-title="Favoritos Plus",Las Estrellas México — opción C
-http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
-#EXTINF:-1 tvg-name="De Película Latinoamérica — opción A" group-title="Favoritos Plus",De Película Latinoamérica — opción A
-http://38.19.41.46:8081/DEPELICULA/index.m3u8
-#EXTINF:-1 tvg-name="Golden — opción B" group-title="Favoritos Plus",Golden — opción B
-http://138.121.15.230:9002/GOLDEN/index.m3u8
-#EXTINF:-1 tvg-name="TNT Latinoamérica — opción A" group-title="Favoritos Plus",TNT Latinoamérica — opción A
-http://45.171.64.30:6060/play/a03i/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic Latinoamérica — opción A" group-title="Favoritos Plus",National Geographic Latinoamérica — opción A
-https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
-#EXTINF:-1 tvg-name="National Geographic Latinoamérica — opción B" group-title="Favoritos Plus",National Geographic Latinoamérica — opción B
-http://15.204.246.24:8080/NatGeoHD/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Channel Latinoamérica" group-title="Favoritos Plus",Discovery Channel Latinoamérica
-http://45.171.64.30:6060/play/a032/index.m3u8
-#EXTINF:-1 tvg-name="History Channel Latinoamérica" group-title="Favoritos Plus",History Channel Latinoamérica
-http://15.204.246.24:8080/HistoryHD/index.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica — opción A" group-title="Favoritos Plus",Nickelodeon Latinoamérica — opción A
-https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
-#EXTINF:-1 tvg-name="Cinecanal Latinoamérica" group-title="Favoritos Plus",Cinecanal Latinoamérica
-https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
-#EXTINF:-1 tvg-name="Tooncast" group-title="Favoritos Plus",Tooncast
-https://streaming.onnethn.com/TOONCAST/playlist.m3u8
-#EXTINF:-1 tvg-name="Cinemax Latinoamérica" group-title="Favoritos Plus",Cinemax Latinoamérica
-https://streaming.onnethn.com/CINEMAX/playlist.m3u8
-#EXTINF:-1 tvg-name="AXN Latinoamérica" group-title="Favoritos Plus",AXN Latinoamérica
-https://streaming.onnethn.com/AXN_HD/playlist.m3u8
-#EXTINF:-1 tvg-name="Distrito Comedia" group-title="Favoritos Plus",Distrito Comedia
-http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5 TV Cozumel" group-title="Favoritos Plus",Canal 5 TV Cozumel
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+#EXTINF:-1 tvg-name="Canal Catorce (México)" group-title="Favoritos Plus",Canal Catorce (México)
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Once México - opción FHD" group-title="Favoritos Plus",Canal Once México - opción FHD
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Womtv (720p)" group-title="Favoritos Plus",Canal Womtv (720p)
+https://live.amelbatv.co:81/womtvlive/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Latinoamérica - opción C" group-title="Favoritos Plus",Cartoon Network Latinoamérica - opción C
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Latinoamérica - opción E" group-title="Favoritos Plus",Cartoon Network Latinoamérica - opción E
 http://45.167.1.138:8000/play/a00w
 #EXTINF:-1 tvg-name="Cartoon Network Latinoamérica - opción F" group-title="Favoritos Plus",Cartoon Network Latinoamérica - opción F
 http://45.173.12.70:8000/play/a0fj
-#EXTINF:-1 tvg-name="Golden Edge - opción B" group-title="Favoritos Plus",Golden Edge - opción B
-http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
-#EXTINF:-1 tvg-name="Golden Edge - opción D" group-title="Favoritos Plus",Golden Edge - opción D
-http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
-#EXTINF:-1 tvg-name="Golden Edge - opción E" group-title="Favoritos Plus",Golden Edge - opción E
-http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
-#EXTINF:-1 tvg-name="CineLatino - opción B" group-title="Favoritos Plus",CineLatino - opción B
-http://200.115.96.61:9090/play/a0i5/index.m3u8
-#EXTINF:-1 tvg-name="CineLatino - opción C" group-title="Favoritos Plus",CineLatino - opción C
-http://168.196.127.137:6001/play/a08o/index.m3u8
-#EXTINF:-1 tvg-name="CineLatino - opción D" group-title="Favoritos Plus",CineLatino - opción D
-http://200.115.120.1:8000/play/ca129/index.m3u8
-#EXTINF:-1 tvg-name="TLNovelas - opción B" group-title="Favoritos Plus",TLNovelas - opción B
-http://138.121.15.230:9002/TELENOVELAS/index.m3u8
-#EXTINF:-1 tvg-name="TLNovelas México - opción C" group-title="Favoritos Plus",TLNovelas México - opción C
-http://167.249.23.102:8000/play/a0g8/index.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica - opción C" group-title="Favoritos Plus",Nickelodeon Latinoamérica - opción C
-https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica - opción D" group-title="Favoritos Plus",Nickelodeon Latinoamérica - opción D
-http://190.93.224.42/NICK/index.m3u8
-#EXTINF:-1 tvg-name="Las Estrellas - opción E" group-title="Favoritos Plus",Las Estrellas - opción E
-http://45.189.151.7:8000/play/a07s
-#EXTINF:-1 tvg-name="De Película Latinoamérica - opción C" group-title="Favoritos Plus",De Película Latinoamérica - opción C
-http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-name="De Película Latinoamérica - opción D" group-title="Favoritos Plus",De Película Latinoamérica - opción D
-http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
-#EXTINF:-1 tvg-name="Golden - opción C" group-title="Favoritos Plus",Golden - opción C
-http://181.224.200.5:2277/play/a0do/index.m3u8
-#EXTINF:-1 tvg-name="Golden - opción D" group-title="Favoritos Plus",Golden - opción D
-http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",01 - A&E Latinoamérica
-http://138.121.15.230:9002/A&E/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",02 - History 2 Latinoamérica
-http://138.121.15.230:9002/HISTORY-2/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",04 - Animal Planet Latinoamérica
-http://190.128.214.97:64333/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",05 - Discovery Science Latinoamérica
-http://45.171.64.30:6060/play/a007/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",06 - Discovery Turbo Latinoamérica
-http://38.134.250.110:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",07 - TLC Latinoamérica
-http://38.134.250.110:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",08 - HGTV Latinoamérica
-http://38.87.224.19:2220/play/a01p/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",09 - Food Network Latinoamérica
-http://168.196.127.137:6001/play/a09v/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",11 - Universal TV Latinoamérica
-http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",12 - Sony Channel Latinoamérica
-http://190.93.224.42/SONY-CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",13 - Warner Channel Latinoamérica
-http://38.134.250.110:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",14 - Star Channel Latinoamérica
-http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",15 - Studio Universal Latinoamérica
-http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",16 - TNT Series Latinoamérica
-http://168.196.127.137:6001/play/a095/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",17 - TNT Novelas Latinoamérica
-http://190.93.224.42/TNT-NOVELAS/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",20 - Disney Channel Latinoamérica
-http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",22 - Nick Jr. Latinoamérica
-https://streaming.onnethn.com/NICK_JR/playlist.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",23 - MTV Latinoamérica
-http://15.204.246.24:8080/MTVHD/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",25 - Bandamax
-https://streaming.onnethn.com/Bandamax/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",26 - Telemundo Internacional
-http://138.121.15.230:9002/TELEMUNDO/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",27 - Univision Latinoamérica
-http://138.121.15.230:9002/UNIVISION/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",30 - Fox Sports 2 Latinoamérica
-https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
-#EXTINF:-1 tvg-name="02 - FX Latinoamérica — alternativa B" group-title="Favoritos Plus",02 - FX Latinoamérica — alternativa B
-http://15.204.246.24:8080/FXHD/index.m3u8
-#EXTINF:-1 tvg-name="03 - FX Latinoamérica — alternativa C" group-title="Favoritos Plus",03 - FX Latinoamérica — alternativa C
-http://190.93.224.42/FX/index.m3u8
-#EXTINF:-1 tvg-name="04 - Discovery Kids — alternativa B" group-title="Favoritos Plus",04 - Discovery Kids — alternativa B
-http://38.134.250.110:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-name="07 - DreamWorks Latinoamérica — alternativa B" group-title="Favoritos Plus",07 - DreamWorks Latinoamérica — alternativa B
-http://138.121.15.230:9002/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-name="09 - Disney Junior Latinoamérica — alternativa B" group-title="Favoritos Plus",09 - Disney Junior Latinoamérica — alternativa B
-http://190.14.10.19:16000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-name="10 - Disney Junior Latinoamérica — alternativa C" group-title="Favoritos Plus",10 - Disney Junior Latinoamérica — alternativa C
-http://190.93.224.42/DISNEY-JR/index.m3u8
-#EXTINF:-1 tvg-name="11 - Disney Junior Latinoamérica — alternativa D" group-title="Favoritos Plus",11 - Disney Junior Latinoamérica — alternativa D
-http://181.78.14.26:4000/play/a073/index.m3u8
-#EXTINF:-1 tvg-name="17 - Nat Geo Wild" group-title="Favoritos Plus",17 - Nat Geo Wild
-http://198.58.104.90:8989/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="19 - Az Corazón" group-title="Favoritos Plus",19 - Az Corazón
-http://200.115.120.1:8000/play/ca020/index.m3u8
-#EXTINF:-1 tvg-name="22 - El Gourmet" group-title="Favoritos Plus",22 - El Gourmet
-https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
-#EXTINF:-1 tvg-name="23 - Europa Europa" group-title="Favoritos Plus",23 - Europa Europa
-https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
-#EXTINF:-1 tvg-name="26 - Claro Sports" group-title="Favoritos Plus",26 - Claro Sports
-http://168.196.127.137:6001/play/a08r/index.m3u8
-#EXTINF:-1 tvg-name="30 - Claro Cinema" group-title="Favoritos Plus",30 - Claro Cinema
-http://158.172.217.18:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-name="02 | Discovery Kids Latinoamérica — alternativa E 720p/HD declarado" group-title="Favoritos Plus",02 | Discovery Kids Latinoamérica — alternativa E 720p/HD declarado
-http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
-#EXTINF:-1 tvg-name="03 | Telehit — alternativa D" group-title="Favoritos Plus",03 | Telehit — alternativa D
-http://200.115.120.1:8000/play/ca048/index.m3u8
-#EXTINF:-1 tvg-name="04 | Telehit — alternativa E 1080p declarado" group-title="Favoritos Plus",04 | Telehit — alternativa E 1080p declarado
-http://190.61.47.54:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-name="05 | Disney Junior Latinoamérica — alternativa E 1080p declarado" group-title="Favoritos Plus",05 | Disney Junior Latinoamérica — alternativa E 1080p declarado
-http://45.185.163.75:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-name="08 | Golden Premier — alternativa B 1080p declarado" group-title="Favoritos Plus",08 | Golden Premier — alternativa B 1080p declarado
-http://200.57.28.141:8540/play/a0ln
-#EXTINF:-1 tvg-name="09 | Golden Premier 2 — alternativa B 1080p declarado" group-title="Favoritos Plus",09 | Golden Premier 2 — alternativa B 1080p declarado
-http://200.57.28.141:8540/play/a0lo
-#EXTINF:-1 tvg-name="10 | E! Latinoamérica México — alternativa B 720p declarado" group-title="Favoritos Plus",10 | E! Latinoamérica México — alternativa B 720p declarado
-http://72.1.184.5:8089/play/a05d/index.m3u8
-#EXTINF:-1 tvg-name="11 | AMC Latinoamérica — opción A 1080p declarado" group-title="Favoritos Plus",11 | AMC Latinoamérica — opción A 1080p declarado
-http://15.204.246.24:8080/AMCHD/index.m3u8
-#EXTINF:-1 tvg-name="13 | Lifetime Latinoamérica — opción A 1080p declarado" group-title="Favoritos Plus",13 | Lifetime Latinoamérica — opción A 1080p declarado
-http://138.121.15.230:9002/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-name="15 | Pasiones Latinoamérica — opción A 1080p declarado" group-title="Favoritos Plus",15 | Pasiones Latinoamérica — opción A 1080p declarado
-http://15.204.246.24:8080/PasionesHD/index.m3u8
-#EXTINF:-1 tvg-name="16 | Pasiones Latinoamérica — opción B 1080p declarado" group-title="Favoritos Plus",16 | Pasiones Latinoamérica — opción B 1080p declarado
-http://190.93.224.42/PASIONES/index.m3u8
-#EXTINF:-1 tvg-name="18 | Disney Channel Latinoamérica — HD alternativa 720p declarado" group-title="Favoritos Plus",18 | Disney Channel Latinoamérica — HD alternativa 720p declarado
-http://190.14.10.19:16000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-name="19 | Sony Channel — FHD alternativa 1080p declarado" group-title="Favoritos Plus",19 | Sony Channel — FHD alternativa 1080p declarado
-http://15.204.246.24:8080/SonyHD/index.m3u8
-#EXTINF:-1 tvg-name="21 | MTV2 — 720p declarado (verificar idioma)" group-title="Favoritos Plus",21 | MTV2 — 720p declarado (verificar idioma)
-http://198.58.104.90:8989/mtv2/index.m3u8
-#EXTINF:-1 tvg-name="22 | MTV Live — 720p declarado (verificar idioma)" group-title="Favoritos Plus",22 | MTV Live — 720p declarado (verificar idioma)
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-name="23 | De Película Plus — FHD 1080p declarado" group-title="Favoritos Plus",23 | De Película Plus — FHD 1080p declarado
-http://200.115.120.1:8000/play/ca030/index.m3u8
-#EXTINF:-1 tvg-name="25 | Cinecanal Pacífico — FHD 1080p declarado" group-title="Favoritos Plus",25 | Cinecanal Pacífico — FHD 1080p declarado
-http://138.121.15.230:9002/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-name="27 | Bandamax — FHD 1080p declarado" group-title="Favoritos Plus",27 | Bandamax — FHD 1080p declarado
-http://181.78.106.127:5000/play/ca064/index.m3u8
-#EXTINF:-1 tvg-name="29 | Fox Sports 1 — 720p declarado (verificar idioma)" group-title="Favoritos Plus",29 | Fox Sports 1 — 720p declarado (verificar idioma)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-name="31 | FX Latinoamérica Sur — HD alternativa 720p declarado" group-title="Favoritos Plus",31 | FX Latinoamérica Sur — HD alternativa 720p declarado
-http://72.1.184.5:8089/play/a05i/index.m3u8
-#EXTINF:-1 tvg-name="06 | Cinemax Hits (MoreMAX Estados Unidos) [FHD declarada]" group-title="Favoritos Plus",06 | Cinemax Hits (MoreMAX Estados Unidos) [FHD declarada]
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-name="09 | Cine Sony [HD declarada]" group-title="Favoritos Plus",09 | Cine Sony [HD declarada]
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="10 | Az Cinema - alternativa nueva [FHD declarada]" group-title="Favoritos Plus",10 | Az Cinema - alternativa nueva [FHD declarada]
-http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
-#EXTINF:-1 tvg-name="11 | MultiPremier Latinoamérica [FHD declarada]" group-title="Favoritos Plus",11 | MultiPremier Latinoamérica [FHD declarada]
-http://168.196.127.137:6001/play/a08n/index.m3u8
-#EXTINF:-1 tvg-name="12 | Cine Estrella [FHD declarada]" group-title="Favoritos Plus",12 | Cine Estrella [FHD declarada]
+#EXTINF:-1 tvg-name="Cine Estrella" group-title="Favoritos Plus",Cine Estrella
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
-#EXTINF:-1 tvg-name="13 | Todo Cine [FHD declarada]" group-title="Favoritos Plus",13 | Todo Cine [FHD declarada]
-https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
-#EXTINF:-1 tvg-name="15 | Xtrema Acción [sin verificar]" group-title="Favoritos Plus",15 | Xtrema Acción [sin verificar]
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-name="16 | AXN Latinoamérica - opción FHD A [FHD declarada]" group-title="Favoritos Plus",16 | AXN Latinoamérica - opción FHD A [FHD declarada]
-http://15.204.246.24:8080/AXNHD/index.m3u8
-#EXTINF:-1 tvg-name="17 | AXN Latinoamérica - opción FHD B [FHD declarada]" group-title="Favoritos Plus",17 | AXN Latinoamérica - opción FHD B [FHD declarada]
-http://138.121.15.230:9002/AXN/index.m3u8
-#EXTINF:-1 tvg-name="20 | Hola TV [FHD declarada]" group-title="Favoritos Plus",20 | Hola TV [FHD declarada]
-http://15.204.246.24:8080/HOLATVHD/index.m3u8
-#EXTINF:-1 tvg-name="23 | Golf Channel Latinoamérica - FHD [FHD declarada]" group-title="Favoritos Plus",23 | Golf Channel Latinoamérica - FHD [FHD declarada]
-http://15.204.246.24:8080/GolfChannelHD/index.m3u8
-#EXTINF:-1 tvg-name="28 | Canal Once México - opción FHD [FHD declarada]" group-title="Favoritos Plus",28 | Canal Once México - opción FHD [FHD declarada]
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us@SD" group-title="Favoritos Plus",01 - Estrella News (USA) [1080p listado]
-https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaGames.us@SD" group-title="Favoritos Plus",02 - Estrella Games (USA) [1080p listado]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Favoritos Plus",03 - Telemundo Noticias Ahora (USA)
-https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Favoritos Plus",07 - DW Español (Internacional)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Favoritos Plus",08 - France 24 Español (Internacional)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",03 | AMX Noticias (México)
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",05 | Newsmax Spanish (USA)
-https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",07 | UniMas KUVN (USA) - alternativa
-https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",01 | NowMedia Television Español (USA)
-https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",02 | Somos KRGV (Texas USA)
-https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",03 | Unison TV (México)
-https://stream.unison.mx/hls/unisontvatem.m3u8
-#EXTINF:-1 tvg-id="TelemundoAlDia.us" group-title="Favoritos Plus",01 | Telemundo Al Día (USA) - FAST
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",07 | Canal 15 ILCE Summa Saberes
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",03 - Univision USA KMEX (Los Ángeles)
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",04 - UniMás USA KFTR (Los Ángeles)
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
-#EXTINF:-1 group-title="Favoritos Plus",06 - Azteca 7 - alternativa 1
-http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-name="Cine Sony" group-title="Favoritos Plus",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinecanal (1080p)" group-title="Favoritos Plus",Cinecanal (1080p)
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
-#EXTINF:-1 tvg-name="FM Mundo (1080p)" group-title="Favoritos Plus",FM Mundo (1080p)
-https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
-#EXTINF:-1 tvg-name="Universal TV Latin America (1080p)" group-title="Favoritos Plus",Universal TV Latin America (1080p)
-http://15.204.246.24:8080/UniversalHD/index.m3u8
-#EXTINF:-1 tvg-name="Disney Channel Latin America (1080p)" group-title="Favoritos Plus",Disney Channel Latin America (1080p)
-http://15.204.246.24:8080/DisneyHD/index.m3u8
-#EXTINF:-1 tvg-name="Disney Channel Latin America Panregional HD (1080p)" group-title="Favoritos Plus",Disney Channel Latin America Panregional HD (1080p)
-http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-name="Cinecanal Latinoamérica" group-title="Favoritos Plus",Cinecanal Latinoamérica
+https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8
+#EXTINF:-1 tvg-name="Cinecanal Pacífico — FHD 1080p" group-title="Favoritos Plus",Cinecanal Pacífico — FHD 1080p
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-name="CineLatino (720p)" group-title="Favoritos Plus",CineLatino (720p)
+http://206.135.11.174:8010/play/a0lq/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax Hits (MoreMAX Estados Unidos)" group-title="Favoritos Plus",Cinemax Hits (MoreMAX Estados Unidos)
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax Latinoamérica" group-title="Favoritos Plus",Cinemax Latinoamérica
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 group-title="Favoritos Plus",Ciudad Magica
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1 tvg-name="Claro Cinema" group-title="Favoritos Plus",Claro Cinema
+http://158.172.217.18:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-name="Claro Sports" group-title="Favoritos Plus",Claro Sports
+http://168.196.127.137:6001/play/a08r/index.m3u8
+#EXTINF:0 group-title="Favoritos Plus",CNN en Espanol (1080p)
+https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
+#EXTINF:0 group-title="Favoritos Plus",Comedy Central Animation
+https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+#EXTINF:0 group-title="Favoritos Plus",Comedy Central en Espanol
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 #EXTINF:-1 group-title="Favoritos Plus",Comedy Central Latin America
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 group-title="Favoritos Plus",Cosmos Tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Favoritos Plus",Cosmos Tv SD
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
-#EXTINF:-1 tvg-name="AXN Latin America Andes (1080p)" group-title="Favoritos Plus",AXN Latin America Andes (1080p)
-http://181.78.8.199:8000/play/a0cu/index.m3u8
-#EXTINF:-1 tvg-name="Canal Womtv (720p)" group-title="Favoritos Plus",Canal Womtv (720p)
-https://live.amelbatv.co:81/womtvlive/index.m3u8
+#EXTINF:0 group-title="Favoritos Plus",CSI: Miami en espanol
+https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
+#EXTINF:0 group-title="Favoritos Plus",CSI: NY en espanol
+https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
+#EXTINF:0 group-title="Favoritos Plus",De Pelicula US (720p)
+http://138.121.15.230:9002/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-name="De Película Latinoamérica - opción C" group-title="Favoritos Plus",De Película Latinoamérica - opción C
+http://181.224.200.5:2277/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-name="De Película Latinoamérica - opción D" group-title="Favoritos Plus",De Película Latinoamérica - opción D
+http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-name="De Película Latinoamérica — opción A" group-title="Favoritos Plus",De Película Latinoamérica — opción A
+http://38.19.41.46:8081/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-name="De Película Plus — FHD 1080p" group-title="Favoritos Plus",De Película Plus — FHD 1080p
+http://200.115.120.1:8000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids Latin America Chile (1080p)" group-title="Favoritos Plus",Discovery Kids Latin America Chile (1080p)
+http://38.224.231.176:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids Latinoamérica — alternativa E 720p/HD" group-title="Favoritos Plus",Discovery Kids Latinoamérica — alternativa E 720p/HD
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids — alternativa B" group-title="Favoritos Plus",Discovery Kids — alternativa B
+http://38.134.250.110:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Discovery Science Latinoamérica
+http://45.171.64.30:6060/play/a007/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Discovery Turbo Latinoamérica
+http://38.134.250.110:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America (1080p)" group-title="Favoritos Plus",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America Center (1080p)" group-title="Favoritos Plus",Disney Channel Latin America Center (1080p)
 http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America Panregional HD (1080p)" group-title="Favoritos Plus",Disney Channel Latin America Panregional HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Disney Channel Latinoamérica
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latinoamérica — HD alternativa 720p" group-title="Favoritos Plus",Disney Channel Latinoamérica — HD alternativa 720p
+http://190.14.10.19:16000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior Latinoamérica — alternativa B" group-title="Favoritos Plus",Disney Junior Latinoamérica — alternativa B
+http://190.14.10.19:16000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior Latinoamérica — alternativa C" group-title="Favoritos Plus",Disney Junior Latinoamérica — alternativa C
+http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior Latinoamérica — alternativa D" group-title="Favoritos Plus",Disney Junior Latinoamérica — alternativa D
+http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior Latinoamérica — alternativa E 1080p" group-title="Favoritos Plus",Disney Junior Latinoamérica — alternativa E 1080p
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus" tvg-name="Distrito Comedia opción B",Distrito Comedia - opción B
+http://190.61.47.54:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus" tvg-name="Distrito Comedia opción C",Distrito Comedia - opción C
+http://45.5.57.58:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus" tvg-name="Distrito Comedia opción D",Distrito Comedia - opción D
+http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-name="DreamWorks Latinoamérica — alternativa B" group-title="Favoritos Plus",DreamWorks Latinoamérica — alternativa B
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Favoritos Plus",DW Español (Internacional)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-name="E! Latinoamérica México — alternativa B 720p" group-title="Favoritos Plus",E! Latinoamérica México — alternativa B 720p
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-name="El Chavo TV" group-title="Favoritos Plus",El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-name="El Gourmet" group-title="Favoritos Plus",El Gourmet
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames.us@SD" group-title="Favoritos Plus",Estrella Games (USA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
+#EXTINF:0 group-title="Favoritos Plus",Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD" group-title="Favoritos Plus",Estrella News (USA)
+https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-name="Estrella TV" group-title="Favoritos Plus",Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:0 group-title="Favoritos Plus",Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Europa Europa" group-title="Favoritos Plus",Europa Europa
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+#EXTINF:-1 tvg-name="Exa TV" group-title="Favoritos Plus",Exa TV
+http://190.61.90.17:40000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-name="Filmex (1080p)" group-title="Favoritos Plus",Filmex (1080p)
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmex Clasico (1080p)" group-title="Favoritos Plus",Filmex Clasico (1080p)
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 1 — 720p" group-title="Favoritos Plus",Fox Sports 1 — 720p
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Fox Sports 2 Latinoamérica
+https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Favoritos Plus",France 24 Español (Internacional)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-name="FX Latinoamérica Sur — HD alternativa 720p" group-title="Favoritos Plus",FX Latinoamérica Sur — HD alternativa 720p
+http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:-1 tvg-name="FX Latinoamérica — alternativa B" group-title="Favoritos Plus",FX Latinoamérica — alternativa B
+http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 tvg-name="FX Latinoamérica — alternativa C" group-title="Favoritos Plus",FX Latinoamérica — alternativa C
+http://190.93.224.42/FX/index.m3u8
+#EXTINF:0 group-title="Favoritos Plus",Galavision East HD (1080p)
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+#EXTINF:0 group-title="Favoritos Plus",Galavision West (720p)
+http://200.115.120.1:8000/play/ca128/index.m3u8
+#EXTINF:0 group-title="Favoritos Plus",Galavision West HD (1080p)
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
+#EXTINF:-1 tvg-name="Golden - opción C" group-title="Favoritos Plus",Golden - opción C
+http://181.224.200.5:2277/play/a0do/index.m3u8
+#EXTINF:-1 tvg-name="Golden - opción D" group-title="Favoritos Plus",Golden - opción D
+http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
+#EXTINF:-1 tvg-name="Golden Edge - opción B" group-title="Favoritos Plus",Golden Edge - opción B
+http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
+#EXTINF:-1 tvg-name="Golden Edge - opción D" group-title="Favoritos Plus",Golden Edge - opción D
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-name="Golden Edge - opción E" group-title="Favoritos Plus",Golden Edge - opción E
+http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
+#EXTINF:-1 tvg-name="Golden Premier 2 — alternativa B 1080p" group-title="Favoritos Plus",Golden Premier 2 — alternativa B 1080p
+http://200.57.28.141:8540/play/a0lo
+#EXTINF:-1 tvg-name="Golden Premier — alternativa B 1080p" group-title="Favoritos Plus",Golden Premier — alternativa B 1080p
+http://200.57.28.141:8540/play/a0ln
+#EXTINF:-1 tvg-name="Golden — opción B" group-title="Favoritos Plus",Golden — opción B
+http://138.121.15.230:9002/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-name="Golf Channel Latinoamérica - FHD" group-title="Favoritos Plus",Golf Channel Latinoamérica - FHD
+http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",HGTV Latinoamérica
+http://38.87.224.19:2220/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",History 2 Latinoamérica
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-name="History Channel Latinoamérica" group-title="Favoritos Plus",History Channel Latinoamérica
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-name="Hola TV" group-title="Favoritos Plus",Hola TV
+http://15.204.246.24:8080/HOLATVHD/index.m3u8
+#EXTINF:0 group-title="Favoritos Plus",I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+#EXTINF:-1 tvg-name="Imagen TV" group-title="Favoritos Plus",Imagen TV
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-name="Jalisco TV" group-title="Favoritos Plus",Jalisco TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-name="Las Estrellas (1080p)" group-title="Favoritos Plus",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-name="Las Estrellas - opción E" group-title="Favoritos Plus",Las Estrellas - opción E
+http://45.189.151.7:8000/play/a07s
+#EXTINF:-1 tvg-name="Las Estrellas México — opción B" group-title="Favoritos Plus",Las Estrellas México — opción B
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
+#EXTINF:-1 tvg-name="Las Estrellas México — opción C" group-title="Favoritos Plus",Las Estrellas México — opción C
+http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime Latinoamérica — opción A 1080p" group-title="Favoritos Plus",Lifetime Latinoamérica — opción A 1080p
+http://138.121.15.230:9002/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="Lobo TV" group-title="Favoritos Plus",Lobo TV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-name="Mexico Travel TV" group-title="Favoritos Plus",Mexico Travel TV
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+#EXTINF:-1 tvg-name="Mexiquense TV" group-title="Favoritos Plus",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",MTV Latinoamérica
+http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 tvg-name="MTV Live — 720p" group-title="Favoritos Plus",MTV Live — 720p
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="MTV2 — 720p" group-title="Favoritos Plus",MTV2 — 720p
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 tvg-name="MultiPremier Latinoamérica" group-title="Favoritos Plus",MultiPremier Latinoamérica
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Favoritos Plus",Nat Geo Wild
+http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Latinoamérica — opción A" group-title="Favoritos Plus",National Geographic Latinoamérica — opción A
+https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
+#EXTINF:-1 tvg-name="National Geographic Latinoamérica — opción B" group-title="Favoritos Plus",National Geographic Latinoamérica — opción B
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Newsmax Spanish (USA)
+https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Nick Jr. Latinoamérica
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica - opción C" group-title="Favoritos Plus",Nickelodeon Latinoamérica - opción C
+https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica - opción D" group-title="Favoritos Plus",Nickelodeon Latinoamérica - opción D
+http://190.93.224.42/NICK/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica — opción A" group-title="Favoritos Plus",Nickelodeon Latinoamérica — opción A
+https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
+#EXTINF:-1 tvg-name="Notigram TV" group-title="Favoritos Plus",Notigram TV
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",NowMedia Television Español (USA)
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+#EXTINF:-1 tvg-name="Nueve TV San Luis Potosí" group-title="Favoritos Plus",Nueve TV San Luis Potosí
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1 tvg-name="Pasiones Latinoamérica — opción A 1080p" group-title="Favoritos Plus",Pasiones Latinoamérica — opción A 1080p
+http://15.204.246.24:8080/PasionesHD/index.m3u8
+#EXTINF:-1 tvg-name="Pasiones Latinoamérica — opción B 1080p" group-title="Favoritos Plus",Pasiones Latinoamérica — opción B 1080p
+http://190.93.224.42/PASIONES/index.m3u8
+#EXTINF:-1 tvg-name="Popcorn Central" group-title="Favoritos Plus",Popcorn Central
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 tvg-name="Presumiendo México" group-title="Favoritos Plus",Presumiendo México
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Quiero TV Jalisco" group-title="Favoritos Plus",Quiero TV Jalisco
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:-1 tvg-name="RCN Novelas (Colombia)" group-title="Favoritos Plus",RCN Novelas (Colombia)
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:-1 tvg-name="RTQ Querétaro" group-title="Favoritos Plus",RTQ Querétaro
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 tvg-name="SICOM Televisión 26.1 - Puebla" group-title="Favoritos Plus",SICOM Televisión 26.1 - Puebla
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Sony Channel Latinoamérica
+http://190.93.224.42/SONY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Sony Channel — FHD alternativa 1080p" group-title="Favoritos Plus",Sony Channel — FHD alternativa 1080p
+http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-name="Space (1080p)" group-title="Favoritos Plus",Space (1080p)
 http://45.171.64.30:6060/play/a04n/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel (Colombia) (1080p)" group-title="Favoritos Plus",Star Channel (Colombia) (1080p)
 http://190.61.47.54:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Star Channel Latinoamérica
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Studio Universal Latinoamérica
+http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:-1 tvg-name="Tele 10 Nayarit" group-title="Favoritos Plus",Tele 10 Nayarit
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-name="Telehit — alternativa D" group-title="Favoritos Plus",Telehit — alternativa D
+http://200.115.120.1:8000/play/ca048/index.m3u8
+#EXTINF:-1 tvg-name="Telehit — alternativa E 1080p" group-title="Favoritos Plus",Telehit — alternativa E 1080p
+http://190.61.47.54:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-name="Telemax Sonora" group-title="Favoritos Plus",Telemax Sonora
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us" group-title="Favoritos Plus",Telemundo Al Día (USA) - FAST
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Telemundo Internacional
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Favoritos Plus",Telemundo Noticias Ahora (USA)
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="Telemundo Puerto Rico WKAQ" group-title="Favoritos Plus",Telemundo Puerto Rico WKAQ
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-name="Telemundo Romance" group-title="Favoritos Plus",Telemundo Romance
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",TLC Latinoamérica
+http://38.134.250.110:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-name="TLNovelas - opción B" group-title="Favoritos Plus",TLNovelas - opción B
+http://138.121.15.230:9002/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-name="TLNovelas México - opción C" group-title="Favoritos Plus",TLNovelas México - opción C
+http://167.249.23.102:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-name="TNT Latin America Colombia (1080p)" group-title="Favoritos Plus",TNT Latin America Colombia (1080p)
 http://181.78.211.244:8005/play/a09g/index.m3u8
 #EXTINF:-1 tvg-name="TNT Novelas Colombia (1080p)" group-title="Favoritos Plus",TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",TNT Novelas Latinoamérica
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",TNT Series Latinoamérica
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 tvg-name="Todo Cine" group-title="Favoritos Plus",Todo Cine
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+#EXTINF:-1 tvg-name="Tooncast" group-title="Favoritos Plus",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 #EXTINF:-1 tvg-name="Tooncast SouthAmerica (480p)" group-title="Favoritos Plus",Tooncast SouthAmerica (480p)
 http://190.61.42.218:9000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-name="TRC Televisión" group-title="Favoritos Plus",TRC Televisión
+https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Cuatro 4.1 - Guanajuato" group-title="Favoritos Plus",TV Cuatro 4.1 - Guanajuato
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 tvg-name="TV Mar Puerto Vallarta" group-title="Favoritos Plus",TV Mar Puerto Vallarta
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-name="TVP Culiacán" group-title="Favoritos Plus",TVP Culiacán
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVP Mazatlán" group-title="Favoritos Plus",TVP Mazatlán
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",UniMas KUVN (USA) - alternativa
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",UniMás USA KFTR (Los Ángeles)
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Unison TV (México)
+https://stream.unison.mx/hls/unisontvatem.m3u8
+#EXTINF:-1 tvg-name="Universal TV Latin America (1080p)" group-title="Favoritos Plus",Universal TV Latin America (1080p)
+http://15.204.246.24:8080/UniversalHD/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Universal TV Latinoamérica
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Univision Latinoamérica
+http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Univision USA KMEX (Los Ángeles)
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 group-title="Favoritos Plus",Warner Channel Latinoamérica
+http://38.134.250.110:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-name="Xtrema Acción" group-title="Favoritos Plus",Xtrema Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-name="Xtrema Cine Clasico (Argentina)" group-title="Favoritos Plus",Xtrema Cine Clasico (Argentina)
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Latinoamérica - opción B" group-title="Favoritos Plus",TNT Latinoamérica - opción B
+http://181.176.155.7:8090/play/a1kb/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel Latinoamérica - opción A" group-title="Favoritos Plus",Discovery Channel Latinoamérica - opción A
+http://181.224.200.5:2277/play/a00t/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel Latinoamérica - opción C" group-title="Favoritos Plus",Discovery Channel Latinoamérica - opción C
+http://45.186.254.75:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-name="Azteca Deportes Network (Tubi)" group-title="Deportes",Azteca Deportes Network (Tubi)
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-name="Claro Sports" group-title="Deportes",Claro Sports
+http://168.196.127.137:6001/play/a08r/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3 Latin America (1080p)" group-title="Deportes",ESPN 3 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-name="ESPN 4 Latin America (1080p)" group-title="Deportes",ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-name="ESPN 5 Latin America (1080p)" group-title="Deportes",ESPN 5 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-name="ESPN 6 Latin America (1080p)" group-title="Deportes",ESPN 6 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-name="ESPN 7 Latin America (1080p)" group-title="Deportes",ESPN 7 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Extra Latin America
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
+#EXTINF:-1 tvg-name="ESPN Latin America Colombia (1080p)" group-title="Deportes",ESPN Latin America Colombia (1080p)
+http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Premium
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 1 — 720p" group-title="Deportes",Fox Sports 1 — 720p
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 Latinoamérica
+https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
+#EXTINF:-1 tvg-name="Golf Channel Latinoamérica - FHD" group-title="Deportes",Golf Channel Latinoamérica - FHD
+http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Latinoamérica - opción C" group-title="Infantil",Cartoon Network Latinoamérica - opción C
+http://158.172.217.18:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Latinoamérica - opción E" group-title="Infantil",Cartoon Network Latinoamérica - opción E
+http://45.167.1.138:8000/play/a00w
+#EXTINF:-1 tvg-name="Cartoon Network Latinoamérica - opción F" group-title="Infantil",Cartoon Network Latinoamérica - opción F
+http://45.173.12.70:8000/play/a0fj
+#EXTINF:-1 tvg-name="Discovery Kids Latinoamérica — alternativa E 720p/HD" group-title="Infantil",Discovery Kids Latinoamérica — alternativa E 720p/HD
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids — alternativa B" group-title="Infantil",Discovery Kids — alternativa B
+http://38.134.250.110:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America (1080p)" group-title="Infantil",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America Panregional HD (1080p)" group-title="Infantil",Disney Channel Latin America Panregional HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney Channel Latinoamérica
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latinoamérica — HD alternativa 720p" group-title="Infantil",Disney Channel Latinoamérica — HD alternativa 720p
+http://190.14.10.19:16000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior Latinoamérica — alternativa B" group-title="Infantil",Disney Junior Latinoamérica — alternativa B
+http://190.14.10.19:16000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior Latinoamérica — alternativa C" group-title="Infantil",Disney Junior Latinoamérica — alternativa C
+http://190.93.224.42/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior Latinoamérica — alternativa D" group-title="Infantil",Disney Junior Latinoamérica — alternativa D
+http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:-1 tvg-name="Disney Junior Latinoamérica — alternativa E 1080p" group-title="Infantil",Disney Junior Latinoamérica — alternativa E 1080p
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-name="DreamWorks Latinoamérica — alternativa B" group-title="Infantil",DreamWorks Latinoamérica — alternativa B
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-name="El Chavo TV" group-title="Infantil",El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 group-title="Infantil",Nick Jr. Latinoamérica
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica - opción C" group-title="Infantil",Nickelodeon Latinoamérica - opción C
+https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica - opción D" group-title="Infantil",Nickelodeon Latinoamérica - opción D
+http://190.93.224.42/NICK/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica — opción A" group-title="Infantil",Nickelodeon Latinoamérica — opción A
+https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
+#EXTINF:-1 group-title="Infantil",Plim Plim
+http://200.115.120.1:8000/play/ca091/index.m3u8
+#EXTINF:-1 tvg-name="Tooncast" group-title="Infantil",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinecanal (1080p)" group-title="Ecuador",Cinecanal (1080p)
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel Latin America (1080p)" group-title="Ecuador",Discovery Channel Latin America (1080p)
@@ -485,74 +567,6 @@ http://15.204.246.24:8080/UniversalHD/index.m3u8
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Wuan+" group-title="Ecuador",Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
-#EXTINF:-1 tvg-name="Azteca Deportes Network (Tubi)" group-title="Deportes",Azteca Deportes Network (Tubi)
-https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",30 - Fox Sports 2 Latinoamérica
-https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
-#EXTINF:-1 tvg-name="26 - Claro Sports" group-title="Deportes",26 - Claro Sports
-http://168.196.127.137:6001/play/a08r/index.m3u8
-#EXTINF:-1 tvg-name="29 | Fox Sports 1 — 720p declarado (verificar idioma)" group-title="Deportes",29 | Fox Sports 1 — 720p declarado (verificar idioma)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-name="23 | Golf Channel Latinoamérica - FHD [FHD declarada]" group-title="Deportes",23 | Golf Channel Latinoamérica - FHD [FHD declarada]
-http://15.204.246.24:8080/GolfChannelHD/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 3 Latin America (1080p)" group-title="Deportes",ESPN 3 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1 tvg-name="ESPN 4 Latin America (1080p)" group-title="Deportes",ESPN 4 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1 tvg-name="ESPN 5 Latin America (1080p)" group-title="Deportes",ESPN 5 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-#EXTINF:-1 tvg-name="ESPN 6 Latin America (1080p)" group-title="Deportes",ESPN 6 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1 tvg-name="ESPN 7 Latin America (1080p)" group-title="Deportes",ESPN 7 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-#EXTINF:-1 tvg-name="ESPN Latin America Colombia (1080p)" group-title="Deportes",ESPN Latin America Colombia (1080p)
-http://190.61.47.54:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Extra Latin America
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
-#EXTINF:-1 group-title="Deportes",ESPN Premium
-http://158.172.155.130:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica — opción A" group-title="Infantil",Nickelodeon Latinoamérica — opción A
-https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Latinoamérica - opción C" group-title="Infantil",Cartoon Network Latinoamérica - opción C
-http://158.172.217.18:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Latinoamérica - opción E" group-title="Infantil",Cartoon Network Latinoamérica - opción E
-http://45.167.1.138:8000/play/a00w
-#EXTINF:-1 tvg-name="Cartoon Network Latinoamérica - opción F" group-title="Infantil",Cartoon Network Latinoamérica - opción F
-http://45.173.12.70:8000/play/a0fj
-#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica - opción C" group-title="Infantil",Nickelodeon Latinoamérica - opción C
-https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon Latinoamérica - opción D" group-title="Infantil",Nickelodeon Latinoamérica - opción D
-http://190.93.224.42/NICK/index.m3u8
-#EXTINF:-1 group-title="Infantil",20 - Disney Channel Latinoamérica
-http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:-1 group-title="Infantil",22 - Nick Jr. Latinoamérica
-https://streaming.onnethn.com/NICK_JR/playlist.m3u8
-#EXTINF:-1 tvg-name="09 - Disney Junior Latinoamérica — alternativa B" group-title="Infantil",09 - Disney Junior Latinoamérica — alternativa B
-http://190.14.10.19:16000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-name="10 - Disney Junior Latinoamérica — alternativa C" group-title="Infantil",10 - Disney Junior Latinoamérica — alternativa C
-http://190.93.224.42/DISNEY-JR/index.m3u8
-#EXTINF:-1 tvg-name="11 - Disney Junior Latinoamérica — alternativa D" group-title="Infantil",11 - Disney Junior Latinoamérica — alternativa D
-http://181.78.14.26:4000/play/a073/index.m3u8
-#EXTINF:-1 tvg-name="05 | Disney Junior Latinoamérica — alternativa E 1080p declarado" group-title="Infantil",05 | Disney Junior Latinoamérica — alternativa E 1080p declarado
-http://45.185.163.75:8000/play/a016/index.m3u8
-#EXTINF:-1 tvg-name="18 | Disney Channel Latinoamérica — HD alternativa 720p declarado" group-title="Infantil",18 | Disney Channel Latinoamérica — HD alternativa 720p declarado
-http://190.14.10.19:16000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-name="Disney Channel Latin America (1080p)" group-title="Infantil",Disney Channel Latin America (1080p)
-http://15.204.246.24:8080/DisneyHD/index.m3u8
-#EXTINF:-1 tvg-name="Disney Channel Latin America Panregional HD (1080p)" group-title="Infantil",Disney Channel Latin America Panregional HD (1080p)
-http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
-#EXTINF:-1 tvg-name="El Chavo TV" group-title="Infantil",El Chavo TV
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-name="Tooncast" group-title="Infantil",Tooncast
-https://streaming.onnethn.com/TOONCAST/playlist.m3u8
-#EXTINF:-1 tvg-name="04 - Discovery Kids — alternativa B" group-title="Infantil",04 - Discovery Kids — alternativa B
-http://38.134.250.110:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-name="07 - DreamWorks Latinoamérica — alternativa B" group-title="Infantil",07 - DreamWorks Latinoamérica — alternativa B
-http://138.121.15.230:9002/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-name="02 | Discovery Kids Latinoamérica — alternativa E 720p/HD declarado" group-title="Infantil",02 | Discovery Kids Latinoamérica — alternativa E 720p/HD declarado
-http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
-#EXTINF:-1 group-title="Infantil",Plim Plim
-http://200.115.120.1:8000/play/ca091/index.m3u8
 #EXTINF:-1 group-title="Argentina",Cartoon Network Latin America South Atlantic
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Argentina",Ciudad Magica
@@ -579,8 +593,6 @@ http://200.115.120.1:8000/play/ca091/index.m3u8
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1 group-title="Argentina",TNT Novelas
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Kids Latin America Chile (1080p)" group-title="Favoritos Plus",Discovery Kids Latin America Chile (1080p)
-http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-name="Bolivia TV (1080p)" group-title="Bolivia",Bolivia TV (1080p)
 http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-name="Bolivision (1080p)" group-title="Bolivia",Bolivision (1080p)
@@ -2549,30 +2561,6 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="TV Golfo Uraba" group-title="Colombia",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
-#EXTINF:0 group-title="Favoritos Plus",CNN en Espanol (1080p)
-https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
-#EXTINF:0 group-title="Favoritos Plus",Comedy Central Animation
-https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
-#EXTINF:0 group-title="Favoritos Plus",Comedy Central en Espanol
-https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:0 group-title="Favoritos Plus",CSI: Miami en espanol
-https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
-#EXTINF:0 group-title="Favoritos Plus",CSI: NY en espanol
-https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
-#EXTINF:0 group-title="Favoritos Plus",De Pelicula US (720p)
-http://138.121.15.230:9002/DEPELICULA/index.m3u8
-#EXTINF:0 group-title="Favoritos Plus",Estrella News (1080p)
-https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Favoritos Plus",Estrella TV (1080p)
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Favoritos Plus",Galavision East HD (1080p) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
-#EXTINF:0 group-title="Favoritos Plus",Galavision West (720p)
-http://200.115.120.1:8000/play/ca128/index.m3u8
-#EXTINF:0 group-title="Favoritos Plus",Galavision West HD (1080p) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
-#EXTINF:0 group-title="Favoritos Plus",I Love Lucy
-https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
 #EXTINF:0 group-title="Estados Unidos",CityTV San Diego (360p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 #EXTINF:0 group-title="Estados Unidos",CityTV Whittier (720p)
@@ -3337,16 +3325,6 @@ https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:0 group-title="Estados Unidos",Leominster TV Government (720p)
 https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="CineLatino (720p)" group-title="Favoritos Plus",CineLatino (720p)
-http://206.135.11.174:8010/play/a0lq/index.m3u8
-#EXTINF:-1 tvg-name="Exa TV" group-title="Favoritos Plus",Exa TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-name="Filmex (1080p) [Geo-blocked]" group-title="Favoritos Plus",Filmex (1080p) [Geo-blocked]
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Filmex Clasico (1080p) [Geo-blocked]" group-title="Favoritos Plus",Filmex Clasico (1080p) [Geo-blocked]
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Las Estrellas (1080p)" group-title="Favoritos Plus",Las Estrellas (1080p)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-name="Canal 13 Oaxaca (720p) [Not 24/7]" group-title="Mexico",Canal 13 Oaxaca (720p) [Not 24/7]
 https://stream-207963.castr.net/65313d270e749722b6474684/live_0bd65ed0dfbf11ee848c53d8a686e201/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Canal 13 Puebla (720p) [Not 24/7]" group-title="Mexico",Canal 13 Puebla (720p) [Not 24/7]
